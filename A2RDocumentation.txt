@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 Hi tusha
 abcd
-=======
+Hi tushar 
 Hi tushar
 
 Hello Anjan
->>>>>>> f80a4d42090125615460fcfdd04951acf35f977b
